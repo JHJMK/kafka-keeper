@@ -1,0 +1,6 @@
+.mygo/
+build/
+.superpowers/
+.DS_Store
+.idea
+docs/

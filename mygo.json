@@ -1,0 +1,7 @@
+{
+  "name": "Kafka Keeper",
+  "identifier": "dev.jjk.kafka-keeper",
+  "version": "1.0.0",
+  "icon": "resources/icon.png",
+  "out": "build"
+}
